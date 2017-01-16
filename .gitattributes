@@ -1,0 +1,4 @@
+* text eol=crlf
+*.ps1 text
+*.psm1 text
+*.psd1 test
