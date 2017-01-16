@@ -6,9 +6,6 @@ Generates a random password
 Generates a random password with at least 1 uppercase letter, 1 lowercase
 letter, and 1 digit in the password, with a given length.
 #>
-
-
-# Generates an n-character password with at least 1 capital, 1 lowercase and 1 digit
 function New-Password {
     Param(
     $Length = 10
