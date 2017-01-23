@@ -63,7 +63,7 @@ Copyright = '(c) 2017 IT-assistans Sverige AB'
 # FormatsToProcess = @()
 
 # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
-NestedModules = @('Password.psm1')
+NestedModules = @('Password.psm1', 'PhoneNumber.psm1')
 
 # Functions to export from this module
 FunctionsToExport = '*'
